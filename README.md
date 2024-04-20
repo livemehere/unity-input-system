@@ -5,3 +5,7 @@
 ## Action Assets
 
 ![](img/ActionAssets.png)
+
+## PlayerInput Component
+
+![](img/PlayerInputComponent.png)
