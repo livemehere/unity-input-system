@@ -1,3 +1,3 @@
-## Direct InputActions
+## Embedded Actions
 
 ![](img/directInputAction.png)
