@@ -25,11 +25,21 @@ public class Player : MonoBehaviour
         rb = GetComponent<Rigidbody>();
         foot = transform.Find("Foot");
         anim = transform.Find("Body").GetComponent<Animator>();
+    }
 
+    void OnEnable()
+    {
         movement.Enable();
         jump.Enable();
         run.Enable();
         jump.performed += ctx => Jump();
+    }
+
+    void OnDisable()
+    {
+        movement.Disable();
+        jump.Disable();
+        run.Disable();
     }
 
     void Update(){
