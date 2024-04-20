@@ -1,3 +1,3 @@
 ## Direct InputActions
 
-![](./directInputAction.png)
+![](img/directInputAction.png)
