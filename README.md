@@ -1,4 +1,4 @@
-# 3 ways to use Input System
+# Using the Input System: 3 Ways
 
 ## Embedded Actions
 
