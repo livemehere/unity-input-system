@@ -1,3 +1,5 @@
+# 3 ways to use Input System
+
 ## Embedded Actions
 
 ![](img/directInputAction.png)
